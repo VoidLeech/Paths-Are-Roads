@@ -1,0 +1,20 @@
+{
+  "values": [
+    "minecraft:player",
+    "minecraft:villager",
+    "minecraft:wandering_trader",
+
+    "minecraft:horse",
+    "minecraft:donkey",
+    "minecraft:mule",
+    "minecraft:skeleton_horse",
+    "minecraft:zombie_horse",
+
+    "minecraft:camel",
+    "minecraft:llama",
+    "minecraft:trader_llama",
+
+    "minecraft:pig",
+    "minecraft:strider"
+  ]
+}
