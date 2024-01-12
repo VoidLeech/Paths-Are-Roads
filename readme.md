@@ -28,8 +28,8 @@ We currently support the following mods:
 
 ### Editing
 The values for this data pack can be overwritten like any other.
-Blocks that have to count as path are tagged in [data/paths_are_roads/tags/blocks/counts_as_path.json]().
-Entities that will be sped up by paths are tagged in [data/paths_are_roads/tags/entity_types/path_user.json]().
+Blocks that have to count as path are tagged in [data/paths_are_roads/tags/blocks/counts_as_path.json](data/paths_are_roads/tags/blocks/counts_as_path.json).
+Entities that will be sped up by paths are tagged in [data/paths_are_roads/tags/entity_types/path_user.json](data/paths_are_roads/tags/entity_types/path_user.json).
 
 ### FAQ
 **Q: Will you port to X.x.x?**  
