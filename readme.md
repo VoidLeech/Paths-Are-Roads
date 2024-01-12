@@ -12,7 +12,7 @@ Llama caravans have not been left behind and will receive the boost too.
 
 ### Mod Support
 Paths are Roads comes with built-in mod support for various mods. If your favourite mod is missing, feel free to create an issue or open a PR.
-We currently support the following mods:  
+Paths are Roads currently support the following mods:  
 - Aether: 
     - Moa
     - Phyg
@@ -32,5 +32,7 @@ Blocks that have to count as path are tagged in [data/paths_are_roads/tags/block
 Entities that will be sped up by paths are tagged in [data/paths_are_roads/tags/entity_types/path_user.json](data/paths_are_roads/tags/entity_types/path_user.json).
 
 ### FAQ
+**Q: Why should I use your data pack and not one of existing ones providing a speed-up boost to paths?**  
+A: Paths are Roads has full customizability w.r.t. the blocks that count as paths, the entities that they apply to, and comes with some built-in mod support.  
 **Q: Will you port to X.x.x?**  
 A: I will keep the data pack up to date with major releases of Minecraft, and will try to provide versions for the Minecraft versions that support the features necessary for this pack to function. Versions before 1.17-pre1 will not be supported, as this is when the stepping_on property was added.
