@@ -24,6 +24,27 @@
     {
       "id": "aether:phyg",
       "required": false
+    },
+
+    {
+      "id": "alexsmobs:komodo_dragon",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:grizzly_bear",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:elephant",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:tusklin",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:endergrade",
+      "required": false
     }
   ]
 }
