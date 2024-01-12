@@ -15,6 +15,15 @@
     "minecraft:trader_llama",
 
     "minecraft:pig",
-    "minecraft:strider"
+    "minecraft:strider",
+
+    {
+      "id": "aether:moa",
+      "required": false
+    },
+    {
+      "id": "aether:phyg",
+      "required": false
+    }
   ]
 }
