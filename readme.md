@@ -1,4 +1,8 @@
 # Paths are Roads
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/paths-are-roads?style=flat&logo=modrinth&label=Modrinth)](https://modrinth.com/datapack/paths-are-roads)
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/961218?style=flat&logo=curseforge&label=Curseforge)](https://www.curseforge.com/minecraft/texture-packs/paths-are-roads)
+![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/paths-are-roads?style=flat&label=Supported%20Versions)
+
 This data pack provides you with an incentive to build paths—besides them bringing your builds together of course.
 
 Walking on a path block will now confer you a 40% boost to your movement speed, equivalent to the Speed II effect. This effect stacks with any other speed boosting effect, such as potions.
@@ -35,4 +39,4 @@ Entities that will be sped up by paths are tagged in [data/paths_are_roads/tags/
 **Q: Why should I use your data pack and not one of existing ones providing a speed-up boost to paths?**  
 A: Paths are Roads has full customizability w.r.t. the blocks that count as paths, the entities that they apply to, and comes with some built-in mod support.  
 **Q: Will you port to X.x.x?**  
-A: I will keep the data pack up to date with major releases of Minecraft, and will try to provide versions for the Minecraft versions that support the features necessary for this pack to function. Versions before 1.17-pre1 will not be supported, as this is when the stepping_on property was added.
+A: I will keep the data pack up to date with major releases of Minecraft, and will try to provide versions for the Minecraft versions that support the features necessary for this pack to function. Versions before 1.17-pre1 will not be supported, as this is when the stepping_on property was added, unless I find a different way to implement the required tag check.
