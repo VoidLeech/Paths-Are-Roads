@@ -16,20 +16,10 @@ Llama caravans have not been left behind and will receive the boost too.
 
 ### Mod Support
 Paths are Roads comes with built-in mod support for various mods. If your favourite mod is missing, feel free to create an issue or open a PR.
-Paths are Roads currently support the following mods:  
-- Aether: 
-    - Moa
-    - Phyg
-    - Flying Cow
-    - Aether Dirt Path
-- Deep Aether: 
-    - Golden Dirt Path
-- Alex's Mobs:
-    - Elephant
-    - Endergrade
-    - Grizzly Bear
-    - Komodo Dragon
-    - Tusklin
+Paths are Roads currently support the following mods. For details on which mobs and blocks are supported, check out [docs/mod-compat.md](docs/mod-compat.md)  
+- Aether  
+- Deep Aether  
+- Alex's Mobs  
 
 ### Editing
 The values for this data pack can be overwritten like any other.
