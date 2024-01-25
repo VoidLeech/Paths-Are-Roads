@@ -16,7 +16,6 @@
 
     "minecraft:pig",
     "minecraft:strider",
-    "minecraft:sniffer",
 
     {
       "id": "aether:moa",
