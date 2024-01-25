@@ -25,6 +25,10 @@
       "id": "aether:phyg",
       "required": false
     },
+    {
+      "id": "aether:flying_cow",
+      "required": false
+    },
 
     {
       "id": "alexsmobs:komodo_dragon",

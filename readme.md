@@ -20,6 +20,7 @@ Paths are Roads currently support the following mods:
 - Aether: 
     - Moa
     - Phyg
+    - Flying Cow
     - Aether Dirt Path
 - Deep Aether: 
     - Golden Dirt Path
