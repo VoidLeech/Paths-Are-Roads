@@ -22,8 +22,8 @@ Paths are Roads currently support the following mods. For details on which mobs 
 - Alex's Mobs  
 
 ### Editing
-The values for this data pack can be overwritten like any other.
-Blocks that have to count as path are tagged in [data/paths_are_roads/tags/blocks/counts_as_path.json](data/paths_are_roads/tags/blocks/counts_as_path.json).
+The values for this data pack can be overwritten or added to like any other. See [Minecraft Wiki on Tag Json Format](https://minecraft.wiki/w/Tag#JSON_format). You'll have to use the same path and file names used by Paths are Roads inside your own data pack.
+Blocks that have to count as path are tagged in [data/paths_are_roads/tags/blocks/counts_as_path.json](data/paths_are_roads/tags/blocks/counts_as_path.json). It is recommended that you copy your changes/additions to [data/paths_are_roads/tags/items/counts_as_path.json](data/paths_are_roads/tags/items/counts_as_path.json) as well, so you can search for which blocks count as paths in-game.
 Entities that will be sped up by paths are tagged in [data/paths_are_roads/tags/entity_types/path_user.json](data/paths_are_roads/tags/entity_types/path_user.json).
 
 ### FAQ
