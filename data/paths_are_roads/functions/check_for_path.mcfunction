@@ -1,0 +1,2 @@
+execute as @s if predicate paths_are_roads:stepping_on_path run function paths_are_roads:increase_speed
+execute as @s unless predicate paths_are_roads:stepping_on_path run function paths_are_roads:decrease_speed

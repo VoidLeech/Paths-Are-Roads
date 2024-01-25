@@ -20,6 +20,7 @@ Paths are Roads currently support the following mods. For details on which mobs 
 - Aether  
 - Deep Aether  
 - Alex's Mobs  
+- Hellion's Sniffer+
 
 ### Editing
 The values for this data pack can be overwritten or added to like any other. See [Minecraft Wiki on Tag Json Format](https://minecraft.wiki/w/Tag#JSON_format). You'll have to use the same path and file names used by Paths are Roads inside your own data pack.

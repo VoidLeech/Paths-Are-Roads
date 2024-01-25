@@ -18,3 +18,8 @@
 | Grizzly Bear  | -      |
 | Komodo Dragon | -      |
 | Tusklin       | -      |
+
+### Hellion's Sniffer+
+| Mobs              | Blocks |
+| ---               | ---    |
+| Sniffer (from MC) | -      |
