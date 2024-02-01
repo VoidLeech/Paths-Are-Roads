@@ -1,1 +1,1 @@
-function paths_are_roads:check_for_path_loop
+function paths_are_roads:select_for_check_loop

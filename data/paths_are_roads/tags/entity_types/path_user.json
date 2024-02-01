@@ -1,54 +1,6 @@
 {
-  "values": [
-    "minecraft:player",
-    "minecraft:villager",
-    "minecraft:wandering_trader",
-
-    "minecraft:horse",
-    "minecraft:donkey",
-    "minecraft:mule",
-    "minecraft:skeleton_horse",
-    "minecraft:zombie_horse",
-
-    "minecraft:camel",
-    "minecraft:llama",
-    "minecraft:trader_llama",
-
-    "minecraft:pig",
-    "minecraft:strider",
-
-    {
-      "id": "aether:moa",
-      "required": false
-    },
-    {
-      "id": "aether:phyg",
-      "required": false
-    },
-    {
-      "id": "aether:flying_cow",
-      "required": false
-    },
-
-    {
-      "id": "alexsmobs:komodo_dragon",
-      "required": false
-    },
-    {
-      "id": "alexsmobs:grizzly_bear",
-      "required": false
-    },
-    {
-      "id": "alexsmobs:elephant",
-      "required": false
-    },
-    {
-      "id": "alexsmobs:tusklin",
-      "required": false
-    },
-    {
-      "id": "alexsmobs:endergrade",
-      "required": false
-    }
-  ]
+    "values": [
+        "#paths_are_roads:unconditional_user",
+        "#paths_are_roads:needs_saddle/snifferplus"
+    ]
 }
