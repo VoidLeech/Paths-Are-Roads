@@ -27,7 +27,8 @@ The values for this data pack can be overwritten or added to like any other. See
 
 Blocks that have to count as path are tagged in [data/paths_are_roads/tags/blocks/counts_as_path.json](data/paths_are_roads/tags/blocks/counts_as_path.json). It is recommended that you copy your changes/additions to [data/paths_are_roads/tags/items/counts_as_path.json](data/paths_are_roads/tags/items/counts_as_path.json) as well, so you can search for which blocks count as paths in-game.  
 
-Entities that will be sped up by paths without question are tagged in [data/paths_are_roads/tags/entity_types/path_user.json](data/paths_are_roads/tags/entity_types/path_user.json). Other entities tend to have requirements that can be found in specific subfolders of [data/paths_are_roads/tags/entity_types](data/paths_are_roads/tags/entity_types/), and adding to these will generally do nothing, but overwriting will of course.
+Entities that will be sped up by paths without question are tagged in [data/paths_are_roads/tags/entity_types/path_user.json](data/paths_are_roads/tags/entity_types/path_user.json). Other entities tend to have requirements that can be found in specific subfolders of [data/paths_are_roads/tags/entity_types](data/paths_are_roads/tags/entity_types/), and adding to these will generally do nothing, but overwriting will of course.  
+It is recommended to add the spawn egg (or another item uniquely identifying the entity) of any affected entities to a tag in the [data/paths_are_roads/tags/items/path_user/](data/paths_are_roads/tags//items/path_user/) folder so a user can search for affected mobs. The specific tag should depend on the source of the entity.
 
 ### FAQ
 **Q: Why should I use your data pack and not one of existing ones providing a speed-up boost to paths?**  
