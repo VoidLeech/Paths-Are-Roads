@@ -1,6 +1,8 @@
 {
     "values": [
         "#paths_are_roads:unconditional_user",
-        "#paths_are_roads:needs_saddle/snifferplus"
+        "#paths_are_roads:needs_saddle/bool_saddle",
+        "#paths_are_roads:needs_saddle/bool_saddled",
+        "#paths_are_roads:needs_saddle/tag_exists_saddleitem"
     ]
 }
