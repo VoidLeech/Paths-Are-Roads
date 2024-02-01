@@ -3,6 +3,9 @@
         "#paths_are_roads:unconditional_user",
         "#paths_are_roads:needs_saddle/bool_saddle",
         "#paths_are_roads:needs_saddle/bool_saddled",
-        "#paths_are_roads:needs_saddle/tag_exists_saddleitem"
+        "#paths_are_roads:needs_saddle/tag_exists_saddleitem",
+        "#paths_are_roads:needs_taming/bool_tame",
+        "#paths_are_roads:tag_exists_owner",
+        "#paths_are_roads:unique_requirement/tusklin"
     ]
 }

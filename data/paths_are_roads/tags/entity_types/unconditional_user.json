@@ -2,30 +2,6 @@
   "values": [
     "minecraft:player",
     "minecraft:villager",
-    "minecraft:wandering_trader",
-
-    "minecraft:llama",
-    "minecraft:trader_llama",
-
-    {
-      "id": "alexsmobs:komodo_dragon",
-      "required": false
-    },
-    {
-      "id": "alexsmobs:grizzly_bear",
-      "required": false
-    },
-    {
-      "id": "alexsmobs:elephant",
-      "required": false
-    },
-    {
-      "id": "alexsmobs:tusklin",
-      "required": false
-    },
-    {
-      "id": "alexsmobs:endergrade",
-      "required": false
-    }
+    "minecraft:wandering_trader"
   ]
 }

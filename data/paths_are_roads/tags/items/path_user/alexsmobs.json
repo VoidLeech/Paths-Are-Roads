@@ -3,22 +3,22 @@
         {
             "id": "alexsmobs:spawn_egg_komodo_dragon",
             "required": false
-          },
-          {
+        },
+        {
             "id": "alexsmobs:spawn_egg_grizzly_bear",
             "required": false
-          },
-          {
+        },
+        {
             "id": "alexsmobs:spawn_egg_elephant",
             "required": false
-          },
-          {
+        },
+        {
             "id": "alexsmobs:spawn_egg_tusklin",
             "required": false
-          },
-          {
+        },
+        {
             "id": "alexsmobs:spawn_egg_endergrade",
             "required": false
-          }
+        }
     ]
 }
