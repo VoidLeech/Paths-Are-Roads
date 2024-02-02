@@ -18,6 +18,7 @@
 | Grizzly Bear  | -      |
 | Komodo Dragon | -      |
 | Tusklin       | -      |
+| Laviathan     | -      |
 
 ### Hellion's Sniffer+
 | Mobs              | Blocks |

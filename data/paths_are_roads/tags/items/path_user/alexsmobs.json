@@ -19,6 +19,10 @@
         {
             "id": "alexsmobs:spawn_egg_endergrade",
             "required": false
+        },
+        {
+            "id": "alexsmobs:spawn_egg_laviathan",
+            "required": false
         }
     ]
 }
