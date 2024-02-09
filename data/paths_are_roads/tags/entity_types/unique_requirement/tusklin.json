@@ -1,8 +1,8 @@
 {
-    "values": [
-        {
-            "id": "alexsmobs:tusklin",
-            "required": false
-        }
-    ]
+  "values": [
+    {
+        "id": "alexsmobs:tusklin",
+        "required": false
+    }
+  ]
 }

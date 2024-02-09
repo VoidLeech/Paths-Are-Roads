@@ -1,8 +1,8 @@
 {
-    "values": [
-        {
-            "id": "alexsmobs:laviathan",
-            "required": false
-        }
-    ]
+  "values": [
+    {
+        "id": "alexsmobs:laviathan",
+        "required": false
+    }
+  ]
 }

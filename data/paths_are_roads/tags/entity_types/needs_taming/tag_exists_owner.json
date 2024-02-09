@@ -1,12 +1,12 @@
 {
-    "values": [
-        {
-            "id": "alexsmobs:elephant",
-            "required": false
-        },
-        {
-            "id": "alexsmobs:grizzly_bear",
-            "required": false
-        }
-    ]
+  "values": [
+    {
+      "id": "alexsmobs:elephant",
+      "required": false
+    },
+    {
+      "id": "alexsmobs:grizzly_bear",
+      "required": false
+    }
+  ]
 }

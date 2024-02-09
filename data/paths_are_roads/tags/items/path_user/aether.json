@@ -1,16 +1,16 @@
 {
-    "values": [
-        {
-            "id": "aether:moa_spawn_egg",
-            "required": false
-        },
-        {
-            "id": "aether:phyg_spawn_egg",
-            "required": false
-        },
-        {
-            "id": "aether:flying_cow_spawn_egg",
-            "required": false
-        }
-    ]
+  "values": [
+    {
+      "id": "aether:moa_spawn_egg",
+      "required": false
+    },
+    {
+      "id": "aether:phyg_spawn_egg",
+      "required": false
+    },
+    {
+      "id": "aether:flying_cow_spawn_egg",
+      "required": false
+    }
+  ]
 }
