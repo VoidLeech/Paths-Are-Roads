@@ -24,3 +24,8 @@
 | Mobs              | Blocks |
 | ---               | ---    |
 | Sniffer (from MC) | -      |
+
+### Simple Kelpies
+| Mobs              | Blocks |
+| ---               | ---    |
+| Kelpie            | -      |

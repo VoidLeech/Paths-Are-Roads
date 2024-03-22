@@ -1,6 +1,10 @@
 {
   "values": [
     "minecraft:llama",
-    "minecraft:trader_llama"
+    "minecraft:trader_llama",
+    {
+      "id": "simplekelpies:kelpie",
+      "required": false
+    }
   ]
 }

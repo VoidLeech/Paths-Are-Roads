@@ -10,7 +10,7 @@ Walking on a path block will now confer you a 40% boost to your movement speed, 
 ### Not just you
 Your world is so much more than just yourself, and it can't be expected that you travel everywhere on foot. For those medium distances where portal linking is just not quite worth it, you might take a mount. You'll be delighted to hear that they can benefit from the upgraded paths too, even if you could outrun some of them already.
 
-Villagers have learned to use paths too, traversing around their villages just that bit quicker. 
+Villagers have learned to use paths too, traversing around their villages just that bit quicker.
 
 Llama caravans have not been left behind and will receive the boost too, provided you've tamed the lot before embarking.
 
@@ -21,7 +21,8 @@ If you don't have one of these mods, the data pack will still work, without erro
 - Aether  
 - Deep Aether  
 - Alex's Mobs  
-- Hellion's Sniffer+
+- Hellion's Sniffer+  
+- Simple Kelpies
 
 ### Editing
 The values for this data pack can be overwritten or added to like any other. See the [Minecraft Wiki on Tag Json Format](https://minecraft.wiki/w/Tag#JSON_format) for how-to. You'll have to create a folder dedicated to Paths are Roads in your data folder, and then use the same folder and file names used by Paths are Roads. The ones one should typically need are listed and linked below.
