@@ -39,7 +39,9 @@ It is recommended to add the spawn egg (or another item uniquely identifying the
 **Q: Why should I use your data pack and not one of existing ones providing a speed-up boost to paths?**  
 A: Paths are Roads has full customizability w.r.t. the blocks that count as paths, the entities that they apply to, and comes with some built-in mod support.  
 **Q: Will you port to X.x.x?**  
-A: I will keep the data pack up to date with major releases of Minecraft, and will try to provide versions for the Minecraft versions that support the features necessary for this pack to function. Versions before 1.17-pre1 will not be supported, as this is when the stepping_on property was added, unless I find a different way to implement the required tag check.
+A: I will keep the data pack up to date with major releases of Minecraft, and will try to provide versions for the Minecraft versions that support the features necessary for this pack to function. Versions before 1.17-pre1 will not be supported, as this is when the stepping_on property was added, unless I find a different way to implement the required tag check.  
+**Q: Can you release this (packaged) as a mod instead?**  
+A: I see no need to do so. There exist mods that allow you to automatically apply data packs to all worlds, and nothing Paths are Roads does is needed during initial world generation.
 
 ### Planned Features
 - Add separate tags for various speeds beside the default +40%.
