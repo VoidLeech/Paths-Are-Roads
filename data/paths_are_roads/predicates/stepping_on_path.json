@@ -1,11 +1,54 @@
 {
-  "condition": "minecraft:entity_properties",
-  "entity": "this",
-  "predicate": {
-    "stepping_on": {
-      "block": {
-        "tag": "paths_are_roads:paths"
+  "condition": "minecraft:any_of",
+  "terms": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "stepping_on": {
+          "block": {
+            "tag": "paths_are_roads:paths"
+          }
+        }
       }
+    },
+    {
+      "condition": "minecraft:any_of",
+      "terms": [
+        {
+          "condition": "minecraft:location_check",
+          "offsetX": 0,
+          "offsetY": -1,
+          "offsetZ": 0,
+          "predicate": {
+            "block": {
+              "tag": "paths_are_roads:path_markers"
+            }
+          }
+        },
+        {
+          "condition": "minecraft:location_check",
+          "offsetX": 0,
+          "offsetY": -2,
+          "offsetZ": 0,
+          "predicate": {
+            "block": {
+              "tag": "paths_are_roads:path_markers"
+            }
+          }
+        },
+        {
+          "condition": "minecraft:location_check",
+          "offsetX": 0,
+          "offsetY": -3,
+          "offsetZ": 0,
+          "predicate": {
+            "block": {
+              "tag": "paths_are_roads:path_markers"
+            }
+          }
+        }
+      ]
     }
-  }
+  ]
 }
