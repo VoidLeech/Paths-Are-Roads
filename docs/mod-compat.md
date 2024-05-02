@@ -1,11 +1,12 @@
 ## Versions
-| Mod                | 1.18.2 | 1.19.2 | 1.20.1 | 1.20.4 | 1.20.6 |
-| ---                | ---    | ---    | ---    | ---    | ---    |
-| Aether             | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
-| Deep Aether        | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
-| Alex's Mobs        | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
-| Hellion's Sniffer+ | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
-| Simple Kelpies     | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
+| Mod                           | 1.18.2 | 1.19.2 | 1.20.1 | 1.20.4 | 1.20.6 |
+| ---                           | ---    | ---    | ---    | ---    | ---    |
+| Aether                        | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
+| Deep Aether                   | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
+| Alex's Mobs                   | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
+| Hellion's Sniffer+            | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
+| Simple Kelpies                | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
+| Macaw's Paths and Pavings     | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
 
 ## Details
 
@@ -37,6 +38,11 @@
 | Sniffer (from MC) | -      |
 
 ### Simple Kelpies
-| Mobs              | Blocks |
-| ---               | ---    |
-| Kelpie            | -      |
+| Mobs   | Blocks |
+| ---    | ---    |
+| Kelpie | -      |
+
+### Macaw's Paths and Pavings
+| Mobs | Blocks |
+| ---  | ---    |
+| -    | ALL    |

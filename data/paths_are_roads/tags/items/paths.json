@@ -8,6 +8,7 @@
     {
       "id": "deep_aether:golden_heights_dirt_path",
       "required": false
-    }
+    },
+    "#paths_are_roads:macaw_paths"
   ]
 }
