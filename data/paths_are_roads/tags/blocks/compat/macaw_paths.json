@@ -1,5 +1,6 @@
 {
   "values": [
+    "#paths_are_roads:compat/everycomp_macaw_paths",
     {
       "id": "mcwpaths:oak_planks_path",
       "required": false
