@@ -1,4 +1,4 @@
-## Versions
+# Versions
 | Mod                           | 1.18.2 | 1.19.2 | 1.20.1 | 1.20.4 | 1.20.6 |
 | ---                           | ---    | ---    | ---    | ---    | ---    |
 | Aether                        | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
@@ -8,41 +8,38 @@
 | Simple Kelpies                | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
 | Macaw's Paths and Pavings     | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
 
-## Details
+# Details
 
 ### Aether
-| Mobs       | Blocks           |
-| ---        | ---              |
-| Moa        | Aether Dirt Path |
-| Phyg       | -                |
-| Flying Cow | -                |
+#### Mobs
+- Moa
+- Phyg
+- Flying Cow
+#### Blocks
+- Aether Dirt Path
 
 ### Deep Aether
-| Mobs | Blocks           |
-| ---  | ---              |
-| -    | Golden Dirt Path |
+#### Blocks
+- Golden Dirt Path
 
 ### Alex's Mobs
-| Mobs          | Blocks |
-| ---           | ---    |
-| Elephant      | -      |
-| Endergrade    | -      |
-| Grizzly Bear  | -      |
-| Komodo Dragon | -      |
-| Tusklin       | -      |
-| Laviathan     | -      |
+#### Mobs
+- Elephant
+- Endergrade
+- Grizzly Bear
+- Komodo Dragon
+- Tusklin
+- Laviathan
 
 ### Hellion's Sniffer+
-| Mobs              | Blocks |
-| ---               | ---    |
-| Sniffer (from MC) | -      |
+#### Mobs
+- Sniffer (From Minecraft, only /w Sniffer+)
 
 ### Simple Kelpies
-| Mobs   | Blocks |
-| ---    | ---    |
-| Kelpie | -      |
+#### Mobs
+- Kelpie
 
 ### Macaw's Paths and Pavings
-| Mobs | Blocks |
-| ---  | ---    |
-| -    | ALL    |
+#### Blocks
+- ALL that are in v1.0.4
+- [Certain EveryComp Planks Paths](https://github.com/VoidLeech/Paths-Are-Roads/issues/10)

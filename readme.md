@@ -16,13 +16,13 @@ Llama caravans have not been left behind and will receive the boost too, provide
 
 ### Mod Support
 Paths are Roads comes with built-in mod support for various mods. If your favourite mod is missing, feel free to create an issue or open a PR.
-Paths are Roads currently support the following mods. For details on which mobs and blocks are supported, check out [docs/mod-compat.md](docs/mod-compat.md).  
-If you don't have one of these mods, the data pack will still work, without errors being thrown.  
-- Aether  
-- Deep Aether  
-- Alex's Mobs  
-- Hellion's Sniffer+  
-- Simple Kelpies  
+Paths are Roads currently support the following mods in various versions of Minecraft. For details on which mobs and blocks are supported, check out [docs/mod-compat.md](docs/mod-compat.md).  
+If you don't have one of these mods, the data pack will still work, without errors being thrown.
+- Aether
+- Deep Aether
+- Alex's Mobs
+- Hellion's Sniffer+
+- Simple Kelpies
 - Macaw's Paths and Pavings (Also with Every Compat support, see [the issue](https://github.com/VoidLeech/Paths-Are-Roads/issues/10) for details)
 
 ### Editing
@@ -45,5 +45,4 @@ A: I will keep the data pack up to date with major releases of Minecraft, and wi
 A: I see no need to do so. There exist mods that allow you to automatically apply data packs to all worlds, and nothing Paths are Roads does is needed during initial world generation, so adding after world creation is fully safe.
 
 ### Planned Features
-- Add separate tags for various speeds beside the default +40%.
-- Implement a method to mark specific blocks as paths without them actually being paths, likely with something like string underneath the blocks that form your path=road.
+- Add separate tags for various speeds beside the default +40%, likely as a separate data pack s.t. those don't hurt performance due to empty defaults.
