@@ -1,12 +1,12 @@
 # Versions
-| Mod                           | 1.18.2 | 1.19.2 | 1.20.1 | 1.20.4 | 1.20.6 |
-| ---                           | ---    | ---    | ---    | ---    | ---    |
-| Aether                        | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
-| Deep Aether                   | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
-| Alex's Mobs                   | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
-| Hellion's Sniffer+            | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
-| Simple Kelpies                | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
-| Macaw's Paths and Pavings     | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
+| Mod                           | 1.18.2 | 1.19.2 | 1.19.4 | 1.20.1 | 1.20.4 | 1.20.6 |
+| ---                           | ---    | ---    | ---    | ---    | ---    | ---    |
+| Aether                        | [ ]    | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
+| Deep Aether                   | [ ]    | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
+| Alex's Mobs                   | [ ]    | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
+| Hellion's Sniffer+            | [ ]    | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
+| Simple Kelpies                | [ ]    | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
+| Macaw's Paths and Pavings     | [ ]    | [ ]    | [ ]    | [x]    | [ ]    | [ ]    |
 
 # Details
 
