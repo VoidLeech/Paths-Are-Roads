@@ -1,16 +1,16 @@
 # Versions
 | Mod                           | 1.18.2 | 1.19.2 | 1.19.4 | 1.20.1 | 1.20.4 | 1.20.6 |
 | ---                           | ---    | ---    | ---    | ---    | ---    | ---    |
-| Aether                        | -      |        |        | +      |        |        |
-| Deep Aether                   | -      |        |        | +      |        |        |
-| Alex's Mobs                   | +      |        |        | +      |        |        |
-| Hellion's Sniffer+            | -      |        |        | +      |        |        |
-| Simple Kelpies                | -      |        |        | +      |        |        |
-| Macaw's Paths and Pavings     | +      |        |        | +      |        |        |
-| Infernal Expansion            | +      |        |        | -      |        |        |
-| Environmental                 | +      |        |        | -      |        |        |
-| More Paths Repathed           | +      |        |        | -      |        |        |
-| Undergarden Paths             | +      |        |        | -      |        |        |
+| Aether                        | -      | +      |        | +      |        |        |
+| Deep Aether                   | -      | +      |        | +      |        |        |
+| Alex's Mobs                   | +      | +      |        | +      |        |        |
+| Hellion's Sniffer+            | -      | -      |        | +      |        |        |
+| Simple Kelpies                | -      | +      |        | +      |        |        |
+| Macaw's Paths and Pavings     | +      | +      |        | +      |        |        |
+| Infernal Expansion            | +      | +      |        | -      |        |        |
+| Environmental                 | +      | +      |        | -      |        |        |
+| More Paths Repathed           | +      | +      |        | -      |        |        |
+| Undergarden Paths             | +      | +      |        | -      |        |        |
 
 # Details
 
@@ -37,7 +37,7 @@
 
 ### Hellion's Sniffer+
 #### Mobs
-- Sniffer (From Minecraft, still only works with Sniffer+)
+- Sniffer (From Vanilla, still only works with Sniffer+)
 
 ### Simple Kelpies
 #### Mobs
@@ -56,6 +56,7 @@
 
 ### Environmental
 #### Blocks
+- Dirt Path (As opposed to the now-renamed Grass Path from Vanilla)
 - Podzol Path
 - Mycelium Path
 
