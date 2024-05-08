@@ -37,7 +37,7 @@
 
 ### Hellion's Sniffer+
 #### Mobs
-- Sniffer (From Minecraft, only /w Sniffer+)
+- Sniffer (From Minecraft, still only works with Sniffer+)
 
 ### Simple Kelpies
 #### Mobs
