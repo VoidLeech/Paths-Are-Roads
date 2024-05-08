@@ -2,11 +2,35 @@
   "values": [
     "minecraft:dirt_path",
     {
-      "id": "aether:aether_dirt_path",
+      "id": "ugpaths:deepsoil_path",
       "required": false
     },
     {
-      "id": "deep_aether:golden_heights_dirt_path",
+      "id": "ugpaths:ashen_deepturf_path",
+      "required": false
+    },
+    {
+      "id": "ugpaths:frozen_deepturf_path",
+      "required": false
+    },
+    {
+      "id": "environmental:podzol_path",
+      "required": false
+    },
+    {
+      "id": "environmental:mycelium_path",
+      "required": false
+    },
+    {
+      "id": "infernalexp:crimson_nylium_path",
+      "required": false
+    },
+    {
+      "id": "infernalexp:warped_nylium_path",
+      "required": false
+    },
+    {
+      "id": "infernalexp:soul_soil_path",
       "required": false
     },
     "#paths_are_roads:compat/macaw_paths"

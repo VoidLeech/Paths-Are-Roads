@@ -34,18 +34,6 @@
       "required": false
     },
     {
-      "id": "mcwpaths:mangrove_planks_path",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:cherry_planks_path",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:bamboo_planks_path",
-      "required": false
-    },
-    {
       "id": "mcwpaths:andesite_diamond_paving",
       "required": false
     },
@@ -286,30 +274,6 @@
       "required": false
     },
     {
-      "id": "mcwpaths:mud_brick_diamond_paving",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:mud_brick_basket_weave_paving",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:mud_brick_square_paving",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:mud_brick_honeycomb_paving",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:mud_brick_clover_paving",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:mud_brick_dumble_paving",
-      "required": false
-    },
-    {
       "id": "mcwpaths:blackstone_diamond_paving",
       "required": false
     },
@@ -478,18 +442,6 @@
       "required": false
     },
     {
-      "id": "mcwpaths:mud_brick_running_bond_path",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:mud_brick_running_bond_slab",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:mud_brick_running_bond",
-      "required": false
-    },
-    {
       "id": "mcwpaths:blackstone_running_bond_path",
       "required": false
     },
@@ -551,10 +503,6 @@
     },
     {
       "id": "mcwpaths:deepslate_strewn_rocky_path",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:mud_brick_strewn_rocky_path",
       "required": false
     },
     {
@@ -683,18 +631,6 @@
     },
     {
       "id": "mcwpaths:deepslate_windmill_weave",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:mud_brick_windmill_weave_path",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:mud_brick_windmill_weave_slab",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:mud_brick_windmill_weave",
       "required": false
     },
     {
@@ -842,18 +778,6 @@
       "required": false
     },
     {
-      "id": "mcwpaths:mud_brick_flagstone_path",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:mud_brick_flagstone_slab",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:mud_brick_flagstone",
-      "required": false
-    },
-    {
       "id": "mcwpaths:blackstone_flagstone_path",
       "required": false
     },
@@ -995,18 +919,6 @@
     },
     {
       "id": "mcwpaths:deepslate_crystal_floor",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:mud_brick_crystal_floor_path",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:mud_brick_crystal_floor_slab",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:mud_brick_crystal_floor",
       "required": false
     },
     {
