@@ -38,14 +38,6 @@
       "required": false
     },
     {
-      "id": "mcwpaths:cherry_planks_path",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:bamboo_planks_path",
-      "required": false
-    },
-    {
       "id": "mcwpaths:andesite_diamond_paving",
       "required": false
     },

@@ -25,10 +25,6 @@
       "required": false
     },
     {
-      "id": "everycomp:mcp/snifferplus/stone_pine_planks_path",
-      "required": false
-    },
-    {
       "id": "everycomp:mcp/undergarden/grongle_planks_path",
       "required": false
     },
@@ -38,6 +34,22 @@
     },
     {
       "id": "everycomp:mcp/undergarden/wigglewood_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/environmental/pine_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/environmental/wisteria_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/environmental/willow_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/environmental/cherry_planks_path",
       "required": false
     }
   ]
