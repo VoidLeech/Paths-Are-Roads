@@ -1,11 +1,6 @@
 {
   "values": [
     "minecraft:pig",
-    "minecraft:strider",
-
-    {
-      "id": "alexsmobs:komodo_dragon",
-      "required": false
-    }
+    "minecraft:strider"
   ]
 }
