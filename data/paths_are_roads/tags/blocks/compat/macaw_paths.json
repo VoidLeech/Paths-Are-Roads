@@ -1,6 +1,5 @@
 {
   "values": [
-    "#paths_are_roads:compat/everycomp_macaw_paths",
     {
       "id": "mcwpaths:oak_planks_path",
       "required": false
@@ -35,14 +34,6 @@
     },
     {
       "id": "mcwpaths:mangrove_planks_path",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:cherry_planks_path",
-      "required": false
-    },
-    {
-      "id": "mcwpaths:bamboo_planks_path",
       "required": false
     },
     {

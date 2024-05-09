@@ -8,11 +8,12 @@
     "minecraft:mule_spawn_egg",
     "minecraft:skeleton_horse_spawn_egg",
     "minecraft:zombie_horse_spawn_egg",
-
-    "minecraft:camel_spawn_egg",
+    {
+      "id": "minecraft:camel_spawn_egg",
+      "required": false
+    },
     "minecraft:llama_spawn_egg",
     "minecraft:trader_llama_spawn_egg",
-
     "minecraft:pig_spawn_egg",
     "minecraft:strider_spawn_egg"
   ]
