@@ -1,21 +1,5 @@
 {
   "values": [
-    {
-      "id": "aether:moa",
-      "required": false
-    },
-    {
-      "id": "aether:phyg",
-        "required": false
-    },
-    {
-      "id": "aether:flying_cow",
-      "required": false
-    },
 
-    {
-      "id": "alexsmobs:endergrade",
-      "required": false
-    }
   ]
 }

@@ -7,7 +7,7 @@
       "predicate": {
         "stepping_on": {
           "block": {
-            "tag": "paths_are_roads:paths"
+            "blocks": "#paths_are_roads:paths"
           }
         }
       }
@@ -22,7 +22,7 @@
           "offsetZ": 0,
           "predicate": {
             "block": {
-              "tag": "paths_are_roads:path_markers"
+              "blocks": "#paths_are_roads:path_markers"
             }
           }
         },
@@ -33,7 +33,7 @@
           "offsetZ": 0,
           "predicate": {
             "block": {
-              "tag": "paths_are_roads:path_markers"
+              "blocks": "#paths_are_roads:path_markers"
             }
           }
         },
@@ -44,7 +44,7 @@
           "offsetZ": 0,
           "predicate": {
             "block": {
-              "tag": "paths_are_roads:path_markers"
+              "blocks": "#paths_are_roads:path_markers"
             }
           }
         }
