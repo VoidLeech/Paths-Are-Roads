@@ -10,7 +10,7 @@
 | Infernal Expansion        | +      | +      | -      | -      | -      | -      |
 | Environmental             | +      | +      | -      | -      | -      | -      |
 | More Paths Repathed       | +      | +      | -      | -      | -      | -      |
-| Undergarden Paths         | +      | +      | -      | -      | -      | -      |
+| Undergarden Paths         | +      | +      | -      | +      | +      | +      |
 
 # Details
 

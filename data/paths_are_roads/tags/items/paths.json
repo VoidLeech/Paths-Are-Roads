@@ -1,5 +1,17 @@
 {
   "values": [
-    "minecraft:dirt_path"
+    "minecraft:dirt_path",
+    {
+      "id": "ugpaths:deepsoil_path",
+      "required": false
+    },
+    {
+      "id": "ugpaths:ashen_deepturf_path",
+      "required": false
+    },
+    {
+      "id": "ugpaths:frozen_deepturf_path",
+      "required": false
+    }
   ]
 }
