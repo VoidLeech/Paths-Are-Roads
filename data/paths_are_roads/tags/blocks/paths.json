@@ -1,14 +1,7 @@
 {
   "values": [
     "minecraft:dirt_path",
-    {
-      "id": "aether:aether_dirt_path",
-      "required": false
-    },
-    {
-      "id": "deep_aether:golden_heights_dirt_path",
-      "required": false
-    },
+    "#paths_are_roads:compat/aether_paths",
     "#paths_are_roads:compat/macaw_paths"
   ]
 }

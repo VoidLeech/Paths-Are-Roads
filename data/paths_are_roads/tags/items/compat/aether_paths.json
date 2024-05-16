@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "aether:aether_dirt_path",
+      "required": false
+    },
+    {
+      "id": "deep_aether:golden_heights_dirt_path",
+      "required": false
+    }
+  ]
+}
