@@ -6,7 +6,7 @@
 | Alex's Mobs               | +      | +      | +      | +      | -      | -      |
 | Hellion's Sniffer+        | -      | -      | -      | +      | +      | -      |
 | Simple Kelpies            | -      | +      | +      | +      | -      | -      |
-| Macaw's Paths and Pavings | +      | +      | +      | +      | +      | -      |
+| Macaw's Paths and Pavings | +      | +      | +      | +      | +      | +      |
 | Infernal Expansion        | +      | +      | -      | -      | -      | -      |
 | Environmental             | +      | +      | -      | -      | -      | -      |
 | More Paths Repathed       | +      | +      | -      | -      | -      | -      |
