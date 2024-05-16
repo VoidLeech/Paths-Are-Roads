@@ -12,6 +12,7 @@
     {
       "id": "ugpaths:frozen_deepturf_path",
       "required": false
-    }
+    },
+    "#paths_are_roads:compat/macaw_paths"
   ]
 }
