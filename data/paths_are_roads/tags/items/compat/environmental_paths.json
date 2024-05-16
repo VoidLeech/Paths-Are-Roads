@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "environmental:podzol_path",
+      "required": false
+    },
+    {
+      "id": "environmental:mycelium_path",
+      "required": false
+    }
+  ]
+}

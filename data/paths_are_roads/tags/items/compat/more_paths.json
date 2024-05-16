@@ -1,0 +1,40 @@
+{
+  "values": [
+    {
+      "id": "morepaths:snow_path",
+      "required": false
+    },
+    {
+      "id": "morepaths:gravel_path",
+      "required": false
+    },
+    {
+      "id": "morepaths:coarse_dirt_path",
+      "required": false
+    },
+    {
+      "id": "morepaths:sand_path",
+      "required": false
+    },
+    {
+      "id": "morepaths:red_sand_path",
+      "required": false
+    },
+    {
+      "id": "morepaths:podzol_path",
+      "required": false
+    },
+    {
+      "id": "morepaths:mycelium_path",
+      "required": false
+    },
+    {
+      "id": "morepaths:crimson_nylium_path",
+      "required": false
+    },
+    {
+      "id": "morepaths:warped_nylium_path",
+      "required": false
+    }
+  ]
+}
