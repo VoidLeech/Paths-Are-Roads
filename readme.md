@@ -1,11 +1,12 @@
 # Paths are Roads
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/paths-are-roads?style=flat&logo=modrinth&label=Modrinth)](https://modrinth.com/datapack/paths-are-roads)
 [![CurseForge Downloads](https://img.shields.io/curseforge/dt/961218?style=flat&logo=curseforge&label=Curseforge)](https://www.curseforge.com/minecraft/texture-packs/paths-are-roads)
-![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/paths-are-roads?style=flat&label=Supported%20Versions)
+![Modrinth Game Versions](https://cf.way2muchnoise.eu/versions/961218.svg)
 
 This data pack provides you with an incentive to build paths—besides them bringing your builds together of course.
 
-Walking on a path block will now confer you a 40% boost to your movement speed, equivalent to the Speed II effect. This effect stacks with any other speed boosting effect, such as potions.
+Walking on a path block will now confer you a 40% boost to your movement speed, equivalent to the Speed II effect. This effect stacks with any other speed boosting effect, such as potions.  
+If you do not like the look of path blocks, you can use a path marker block (by default, this includes placed string) up to 3 blocks underneath the block you're walking on, and you'll get the same effect!  
 
 ### Not just you
 Your world is so much more than just yourself, and it can't be expected that you travel everywhere on foot. For those medium distances where portal linking is just not quite worth it, you might take a mount. You'll be delighted to hear that they can benefit from the upgraded paths too, even if you could outrun some of them already.
@@ -33,7 +34,7 @@ If you don't have one of these mods, the data pack will still work, without erro
 The values for this data pack can be overwritten or added to like any other. See the [Minecraft Wiki on Tag Json Format](https://minecraft.wiki/w/Tag#JSON_format) for how-to. You'll have to create a folder dedicated to Paths are Roads in your data folder, and then use the same folder and file names used by Paths are Roads. The ones one should typically need are listed and linked below.
 
 #### Supporting new blocks
-Blocks that have to count as path are tagged [paths_are_roads:paths](data/paths_are_roads/tags/blocks/paths.json). It is recommended that you copy your changes/additions to the [paths_are_roads:paths](data/paths_are_roads/tags/items/paths.json) item tag as well, so you can search for which blocks count as paths in-game.  
+Blocks that have to count as path are tagged [paths_are_roads:paths](data/paths_are_roads/tags/blocks/paths.json). It is recommended that you copy your changes/additions to the [paths_are_roads:paths](data/paths_are_roads/tags/items/paths.json) item tag as well, so you can search for which blocks count as paths in-game. Blocks that have to count as path markers are tagged [paths_are_roads:path_markers](data/paths_are_roads/tags/blocks/path_markers.json). There is an item tag for these as well.
 
 #### Supporting new entities
 Entities that will be sped up by paths without question must be tagged [paths_are_roads:unconditional_user](data/paths_are_roads/tags/entity_types/unconditional_user.json). Other entities tend to have requirements that can be found in specific [subfolders](data/paths_are_roads/tags/entity_types/), and adding an entity to these will likely do nothing for them, as the conditions are specific to how the saddling, taming or riding otherwise is implemented. Adding new conditions is possible but will require copying and overriding the [check_if_should_check_for_path](data/paths_are_roads/functions/check_if_should_check_for_path.mcfunction) function, adding your functionality to it, and adding the tag for your new condition to the [paths_are_roads:path_user](data/paths_are_roads/tags/entity_types/path_user.json) tag.  
