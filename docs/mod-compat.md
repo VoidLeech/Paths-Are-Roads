@@ -45,7 +45,7 @@
 
 ### Macaw's Paths and Pavings
 #### Blocks
-- ALL that are in v1.0.4
+- ALL that are in v1.0.5
 - [Certain EveryComp Planks Paths](https://github.com/VoidLeech/Paths-Are-Roads/issues/10)
 
 ### Infernal Expansion
