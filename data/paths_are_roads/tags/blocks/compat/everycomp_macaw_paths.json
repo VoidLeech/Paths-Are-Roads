@@ -221,10 +221,6 @@
       "required": false
     },
     {
-      "id": "everycomp:mcp/regions_unexplored/sculkwood_planks_path",
-      "required": false
-    },
-    {
       "id": "everycomp:mcp/regions_unexplored/joshua_planks_path",
       "required": false
     },

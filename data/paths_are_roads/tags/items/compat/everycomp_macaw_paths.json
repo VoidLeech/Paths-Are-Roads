@@ -51,6 +51,318 @@
     {
       "id": "everycomp:mcp/environmental/cherry_planks_path",
       "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/blue_enchanted_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/cherry_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/cika_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/jacaranda_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/rainbow_eucalyptus_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/fir_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/sythian_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/holly_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/ebony_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/baobab_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/ether_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/redwood_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/skyris_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/palm_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/witch_hazel_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/nightshade_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/green_enchanted_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/mahogany_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/cypress_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/zelkova_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/maple_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/white_mangrove_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/bulbis_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/imparius_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/aspen_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/pine_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/lament_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/willow_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/palm_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/cherry_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/redwood_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/mahogany_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/jacaranda_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/umbran_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/fir_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/dead_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/hellbark_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/magic_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/willow_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/pine_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/cypress_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/blackwood_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/joshua_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/eucalyptus_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/willow_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/alpha_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/dead_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/maple_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/larch_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/palm_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/mauve_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/redwood_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/baobab_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/cherry_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/yellow_bioshroom_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/green_bioshroom_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/pink_bioshroom_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/blue_bioshroom_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/brimwood_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/socotra_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/magnolia_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/cobalt_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/kapok_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/ecologics/walnut_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/ecologics/coconut_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/ecologics/azalea_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/ecologics/flowering_azalea_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/quark/azalea_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/quark/blossom_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/quark/ancient_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/ars_nouveau/archwood_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/deeperdarker/echo_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/aether_redux/crystal_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/aether_redux/jellyshroom_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/aether_redux/cloudcap_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/aether_redux/fieldsproot_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/aether_redux/glacia_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/aether_redux/blightwillow_planks_path",
+      "required": false
     }
   ]
 }
