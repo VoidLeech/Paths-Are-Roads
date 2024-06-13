@@ -1,16 +1,16 @@
 # Versions
-| Mod                       | 1.18.2 | 1.19.2 | 1.19.4 | 1.20.1 | 1.20.4 | 1.20.6 |
-| ---                       | ---    | ---    | ---    | ---    | ---    | ---    |
-| Aether                    | -      | +      | +      | +      | +      | -      |
-| Deep Aether               | -      | +      | +      | +      | -      | -      |
-| Alex's Mobs               | +      | +      | +      | +      | -      | -      |
-| Hellion's Sniffer+        | -      | -      | -      | +      | +      | -      |
-| Simple Kelpies            | -      | +      | +      | +      | -      | -      |
-| Macaw's Paths and Pavings | +      | +      | +      | +      | +      | +      |
-| Infernal Expansion        | +      | +      | -      | -      | -      | -      |
-| Environmental             | +      | +      | -      | -      | -      | -      |
-| More Paths Repathed       | +      | +      | -      | -      | -      | -      |
-| Undergarden Paths         | +      | +      | -      | +      | +      | +      |
+| Mod                       | 1.18.2 | 1.19.2 | 1.19.4 | 1.20.1 | 1.20.4 | 1.20.6 | 1.21 |
+| ---                       | ---    | ---    | ---    | ---    | ---    | ---    | ---  |
+| Aether                    | -      | +      | +      | +      | +      | -      | -    |
+| Deep Aether               | -      | +      | +      | +      | -      | -      | -    |
+| Alex's Mobs               | +      | +      | +      | +      | -      | -      | -    |
+| Hellion's Sniffer+        | -      | -      | -      | +      | +      | -      | -    |
+| Simple Kelpies            | -      | +      | +      | +      | -      | -      | -    |
+| Macaw's Paths and Pavings | +      | +      | +      | +      | +      | +      | -    |
+| Infernal Expansion        | +      | +      | -      | -      | -      | -      | -    |
+| Environmental             | +      | +      | -      | -      | -      | -      | -    |
+| More Paths Repathed       | +      | +      | -      | -      | -      | -      | -    |
+| Undergarden Paths         | +      | +      | -      | +      | +      | +      | -    |
 
 # Details
 
