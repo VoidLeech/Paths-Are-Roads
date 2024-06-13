@@ -1,6 +1,6 @@
 {
   "pack": {
     "description": "Connecting your builds with paths is now incentivized by increasing the movement speed of you or your mounts. Both the blocks and entities triggering this effect can be easily changed via the provided tags.",
-    "pack_format": 41
+    "pack_format": 48
   }
 }
