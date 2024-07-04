@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "roost:roost_spawn_egg",
+      "required": false
+    }
+  ]
+}
