@@ -8,6 +8,11 @@
       "required": false
     },
 
-    "minecraft:polar_bear"
+    "minecraft:polar_bear",
+
+    {
+      "id": "snowpig:snow_pig",
+      "required": false
+    }
   ]
 }
