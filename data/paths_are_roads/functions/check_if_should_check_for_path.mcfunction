@@ -10,6 +10,8 @@ execute as @s[type=#paths_are_roads:needs_saddle/tag_exists_saddleitem] if data 
 execute as @s[type=#paths_are_roads:needs_saddle/bool_saddle, nbt={Saddle: 1b}] run function paths_are_roads:check_for_path
 # Entities that have a bool called `Saddled` set
 execute as @s[type=#paths_are_roads:needs_saddle/bool_saddled, nbt={Saddled: 1b}] run function paths_are_roads:check_for_path
+# Entities that have a bool called `IsSaddled` set
+execute as @s[type=#paths_are_roads:needs_saddle/bool_issaddled, nbt={IsSaddled: 1b}] run function paths_are_roads:check_for_path
 
 ## Path users that are tamed (reserved for when no other methods apply, as it is the one most likely to apply to mobs not currently being ridden)
 ## Sometimes the choice of specific tag within this category was arbitrary as multiple were possible (i.e. Alex's Mobs Elephant)
