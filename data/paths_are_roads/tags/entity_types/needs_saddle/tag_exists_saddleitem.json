@@ -8,6 +8,11 @@
     {
       "id": "minecraft:camel",
       "required": false
+    },
+
+    {
+      "id": "naturalist:zebra",
+      "required": false
     }
   ]
 }

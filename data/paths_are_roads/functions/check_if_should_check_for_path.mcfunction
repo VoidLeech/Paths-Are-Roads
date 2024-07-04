@@ -12,10 +12,12 @@ execute as @s[type=#paths_are_roads:needs_saddle/bool_saddle, nbt={Saddle: 1b}] 
 execute as @s[type=#paths_are_roads:needs_saddle/bool_saddled, nbt={Saddled: 1b}] run function paths_are_roads:check_for_path
 
 ## Path users with unique requirements
-# Alex's Mobs Tusklin: Needs `Saddled` bool set, and should have been passified /w a brown mushroom: `PassiveTicks != 0`
+# Alex's Mobs Tusklin: Needs `Saddle` bool set, and should have been pacified /w a brown mushroom: `PassiveTicks != 0`
 execute as @s[type=#paths_are_roads:unique_requirement/tusklin, nbt={Saddle: 1b}] as @s[nbt=!{PassiveTicks: 0}] run function paths_are_roads:check_for_path
 # Alex's Mobs Laviathan: two unique equippable items: Straddlite Saddle & Tack: bools `BodyGear` and `HeadGear` need to be set
 execute as @s[type=#paths_are_roads:unique_requirement/laviathan, nbt={BodyGear: 1b, HeadGear: 1b}] run function paths_are_roads:check_for_path
+# Naturalist's Giraffe: can only be ridden temporarily when fed an apple: TameTicks != 0
+execute as @s[type=#paths_are_roads:unique_requirement/giraffe, nbt=!{TameTicks: 0}] run function paths_are_roads:check_for_path
 
 ## Path users that are tamed (reserved for when no other methods apply, as it is the one most likely to apply to mobs not currently being ridden)
 ## Sometimes the choice of specific tag within this category was arbitrary as multiple were possible (i.e. Alex's Mobs Elephant)

@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "naturalist:zebra_spawn_egg",
+      "required": false
+    },
+    {
+      "id": "naturalist:giraffe_spawn_egg",
+      "required": false
+    }
+  ]
+}
