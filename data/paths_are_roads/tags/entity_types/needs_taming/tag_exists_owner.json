@@ -12,6 +12,8 @@
     {
       "id": "roost:roost",
       "required": false
-    }
+    },
+
+    "minecraft:ravager"
   ]
 }

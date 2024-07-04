@@ -6,6 +6,8 @@
     {
       "id": "alexsmobs:komodo_dragon",
       "required": false
-    }
+    },
+
+    "minecraft:polar_bear"
   ]
 }
