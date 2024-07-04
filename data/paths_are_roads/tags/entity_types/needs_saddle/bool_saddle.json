@@ -6,6 +6,11 @@
     {
       "id": "alexsmobs:komodo_dragon",
       "required": false
+    },
+
+    {
+      "id": "snowpig:snow_pig",
+      "required": false
     }
   ]
 }
