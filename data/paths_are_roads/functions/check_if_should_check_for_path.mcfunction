@@ -10,6 +10,8 @@ execute as @s[type=#paths_are_roads:needs_saddle/tag_exists_saddleitem] if data 
 execute as @s[type=#paths_are_roads:needs_saddle/bool_saddle, nbt={Saddle: 1b}] run function paths_are_roads:check_for_path
 # Entities that have a bool called `Saddled` set
 execute as @s[type=#paths_are_roads:needs_saddle/bool_saddled, nbt={Saddled: 1b}] run function paths_are_roads:check_for_path
+# Entities that have a bool called `IsSaddled` set
+execute as @s[type=#paths_are_roads:needs_saddle/bool_issaddled, nbt={IsSaddled: 1b}] run function paths_are_roads:check_for_path
 
 ## Path users with unique requirements
 # Alex's Mobs Tusklin: Needs `Saddle` bool set, and should have been pacified /w a brown mushroom: `PassiveTicks != 0`
