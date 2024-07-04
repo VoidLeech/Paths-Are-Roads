@@ -1,6 +1,11 @@
 {
   "values": [
     "minecraft:pig",
-    "minecraft:strider"
+    "minecraft:strider",
+
+    {
+      "id": "snowpig:snow_pig",
+      "required": false
+    }
   ]
 }
