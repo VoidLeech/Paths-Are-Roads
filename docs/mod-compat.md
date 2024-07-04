@@ -11,6 +11,12 @@
 | Environmental             | +      | +      | -      | -      | -      | -      | -    |
 | More Paths Repathed       | +      | +      | -      | -      | -      | -      | -    |
 | Undergarden Paths         | +      | +      | -      | +      | +      | +      | -    |
+| Naturalist                | +      | +      | -      | +      | -      | -      | -    |
+| Ravage & Cabbage          | -      | -      | -      | +      | -      | -      | -    |
+| RideableRavagers          | -      | -      | -      | +      | -      | -      | -    |
+| RideablePolarBears        | -      | -      | -      | +      | -      | -      | -    |
+| Snow Pig                  | +      | +      | -      | +      | -      | +      | +    |
+| Roost Re-hatched          | -      | -      | -      | +      | -      | -      | -    |
 
 # Details
 
@@ -73,6 +79,33 @@
 - Warped Nylium Path
 
 ### Undergarden Paths
+#### Blocks
 - Deepsoil Path
 - Ashen Deepturf Path
 - Frozen Deepturf Path
+
+### Naturalist
+#### Mobs
+- Zebra
+- Giraffe
+
+### Ravage & Cabbage
+#### Mobs
+- Ravager (Theirs, not the one from Vanilla)
+
+### RideableRavagers
+#### Mobs
+- Ravager (From Vanilla, still only works with RideableRavagers)
+
+### RideablePolarBears
+#### Mobs
+- Polar Bear (From Vanilla, still only works with RideablePolarBears)
+
+### Snow Pig
+#### Mobs
+- Snow Pig
+
+### Roost Re-hatched
+#### Mobs
+- Roost
+- ~~Regal Roost~~ (found via summon, not currently obtainalble/rideable so not yet supported)
