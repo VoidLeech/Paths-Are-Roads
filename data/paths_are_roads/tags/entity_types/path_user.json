@@ -8,6 +8,7 @@
     "#paths_are_roads:needs_taming/bool_tamed",
     "#paths_are_roads:needs_taming/tag_exists_owner",
     "#paths_are_roads:unique_requirement/tusklin",
-    "#paths_are_roads:unique_requirement/laviathan"
+    "#paths_are_roads:unique_requirement/laviathan",
+    "#paths_are_roads:unique_requirement/giraffe"
   ]
 }

@@ -7,6 +7,11 @@
     "minecraft:zombie_horse",
     "minecraft:camel",
 
-    "minecraft:sniffer"
+    "minecraft:sniffer",
+
+    {
+      "id": "naturalist:zebra",
+      "required": false
+    }
   ]
 }
