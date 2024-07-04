@@ -10,9 +10,11 @@ execute as @s[type=#paths_are_roads:needs_saddle/tag_exists_saddleitem] if data 
 execute as @s[type=#paths_are_roads:needs_saddle/bool_saddle, nbt={Saddle: 1b}] run function paths_are_roads:check_for_path
 # Entities that have a bool called `Saddled` set
 execute as @s[type=#paths_are_roads:needs_saddle/bool_saddled, nbt={Saddled: 1b}] run function paths_are_roads:check_for_path
+# Entities that have a bool called `IsSaddled` set
+execute as @s[type=#paths_are_roads:needs_saddle/bool_issaddled, nbt={IsSaddled: 1b}] run function paths_are_roads:check_for_path
 
 ## Path users with unique requirements
-# Alex's Mobs Tusklin: Needs `Saddled` bool set, and should have been passified /w a brown mushroom: `PassiveTicks != 0`
+# Alex's Mobs Tusklin: Needs `Saddle` bool set, and should have been pacified /w a brown mushroom: `PassiveTicks != 0`
 execute as @s[type=#paths_are_roads:unique_requirement/tusklin, nbt={Saddle: 1b}] as @s[nbt=!{PassiveTicks: 0}] run function paths_are_roads:check_for_path
 # Alex's Mobs Laviathan: two unique equippable items: Straddlite Saddle & Tack: bools `BodyGear` and `HeadGear` need to be set
 execute as @s[type=#paths_are_roads:unique_requirement/laviathan, nbt={BodyGear: 1b, HeadGear: 1b}] run function paths_are_roads:check_for_path
