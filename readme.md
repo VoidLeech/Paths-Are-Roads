@@ -55,5 +55,11 @@ A: The data pack format will not have changed between the main version and any v
 **Q: Can you release this (packaged) as a mod instead?**  
 A: I see no need to do so. There exist mods that allow you to automatically apply data packs to all worlds, and nothing Paths are Roads does is needed during initial world generation, so adding after world creation is fully safe.
 
+**Q: Can this be used in my modpack?**  
+A: Yes.
+
 ### Planned Features
 - Add separate tags for various speeds beside the default +40%, likely as a separate data pack s.t. those don't hurt performance due to empty defaults.
+
+### Licensing
+This project is released under a [VL Art-Excluding MIT license](LICENSE).
