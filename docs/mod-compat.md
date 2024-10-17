@@ -20,7 +20,7 @@
 | Oh The Biomes We've Gone  | -      | -      | -      | +      | -      | -      | -    |
 | Call of Yucatán           | -      | -      | -      | +      | -      | -      | -    |
 | Jaden's Nether Expansion  | -      | -      | -      | +      | -      | -      | -    |
-| Goblin's Tyranny          | -      | -      | -      | +      | -      | -      | -    |
+| Goblin's Tyranny          | -      | -      | +      | +      | -      | -      | -    |
 
 # Details
 
