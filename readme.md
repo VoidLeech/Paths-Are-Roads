@@ -41,7 +41,7 @@ If you don't have one of these mods, the data pack will still work, without erro
 - Goblin's Tyranny
 
 ### Editing
-The values for this data pack can be overwritten or added to like any other. See the [Minecraft Wiki on Tag Json Format](https://minecraft.wiki/w/Tag#JSON_format) for how-to. You'll have to create a folder dedicated to Paths are Roads in your data folder, and then use the same folder and file names used by Paths are Roads. The ones one should typically need are listed and linked in [docs/editing.md](docs/editing.md). Currently, there are two versions: [1.18.2-1.20.6](https://github.com/VoidLeech/Paths-Are-Roads/blob/1.20.1/dev/docs/editing.md) and [1.21](https://github.com/VoidLeech/Paths-Are-Roads/blob/1.21/dev/docs/editing.md). The docs on the branch for your version will always be accurate.
+The values for this data pack can be overwritten or added to like any other. See the [Minecraft Wiki on Tag Json Format](https://minecraft.wiki/w/Tag#JSON_format) for how-to. You'll have to create a folder dedicated to Paths are Roads in your data folder, and then use the same folder and file names used by Paths are Roads. The ones one should typically need are listed and linked in [docs/editing.md](docs/editing.md). Currently, there are two versions: [1.18.2-1.20.6](https://github.com/VoidLeech/Paths-Are-Roads/blob/1.20.1/dev/docs/editing.md) and [1.21.1](https://github.com/VoidLeech/Paths-Are-Roads/blob/1.21.1/dev/docs/editing.md). The docs on the branch for your version will always be accurate.
 
 ### FAQ
 **Q: Why should I use your data pack and not one of existing ones providing a speed-up boost to paths?**  
