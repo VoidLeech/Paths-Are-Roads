@@ -17,6 +17,10 @@
 | RideablePolarBears        | -      | -      | -      | +      | -      | -      | -    |
 | Snow Pig                  | +      | +      | -      | +      | -      | +      | +    |
 | Roost Re-hatched          | -      | -      | -      | +      | -      | -      | -    |
+| Oh The Biomes We've Gone  | -      | -      | -      | +      | -      | -      | -    |
+| Call of Yucatán           | -      | -      | -      | +      | -      | -      | -    |
+| Jaden's Nether Expansion  | -      | -      | -      | +      | -      | -      | -    |
+| Goblin's Tyranny          | -      | -      | -      | +      | -      | -      | -    |
 
 # Details
 
@@ -108,4 +112,23 @@
 ### Roost Re-hatched
 #### Mobs
 - Roost
-- ~~Regal Roost~~ (found via summon, not currently obtainalble/rideable so not yet supported)
+- ~~Regal Roost~~ (found via summon command, not currently obtainable/rideable so not yet supported)
+
+### Oh The Biomes We've Gone
+#### Blocks
+- Sandy Dirt Path
+- Lush Dirt Path
+
+### Call of Yucatán
+#### Mobs
+- Chaac
+
+### Jaden's Nether Expansion
+#### Blocks
+- Soul Path
+- Crimson Nylium Path
+- Warped Nylium Path
+
+### Goblin's Tyranny
+#### Mobs
+- Chubby Glitteron
