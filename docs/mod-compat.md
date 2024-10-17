@@ -1,26 +1,26 @@
 # Versions
-| Mod                       | 1.18.2 | 1.19.2 | 1.19.4 | 1.20.1 | 1.20.4 | 1.20.6 | 1.21 |
-| ---                       | ---    | ---    | ---    | ---    | ---    | ---    | ---  |
-| Aether                    | -      | +      | +      | +      | +      | -      | -    |
-| Deep Aether               | -      | +      | +      | +      | -      | -      | -    |
-| Alex's Mobs               | +      | +      | +      | +      | -      | -      | -    |
-| Hellion's Sniffer+        | -      | -      | -      | +      | +      | -      | -    |
-| Simple Kelpies            | -      | +      | +      | +      | -      | -      | -    |
-| Macaw's Paths and Pavings | +      | +      | +      | +      | +      | +      | -    |
-| Infernal Expansion        | +      | +      | -      | -      | -      | -      | -    |
-| Environmental             | +      | +      | -      | -      | -      | -      | -    |
-| More Paths Repathed       | +      | +      | -      | -      | -      | -      | -    |
-| Undergarden Paths         | +      | +      | -      | +      | +      | +      | -    |
-| Naturalist                | +      | +      | -      | +      | -      | -      | -    |
-| Ravage & Cabbage          | -      | -      | -      | +      | -      | -      | -    |
-| RideableRavagers          | -      | -      | -      | +      | -      | -      | -    |
-| RideablePolarBears        | -      | -      | -      | +      | -      | -      | -    |
-| Snow Pig                  | +      | +      | -      | +      | -      | +      | +    |
-| Roost Re-hatched          | -      | -      | -      | +      | -      | -      | -    |
-| Oh The Biomes We've Gone  | -      | -      | -      | +      | -      | -      | -    |
-| Call of Yucatán           | -      | -      | -      | +      | -      | -      | -    |
-| Jaden's Nether Expansion  | -      | -      | -      | +      | -      | -      | -    |
-| Goblin's Tyranny          | -      | -      | +      | +      | -      | -      | -    |
+| Mod                       | 1.18.2 | 1.19.2 | 1.19.4 | 1.20.1 | 1.20.4 | 1.20.6 | 1.21.1 |
+| ---                       | ---    | ---    | ---    | ---    | ---    | ---    | ---    |
+| Aether                    | -      | +      | +      | +      | +      | -      | -      |
+| Deep Aether               | -      | +      | +      | +      | -      | -      | -      |
+| Alex's Mobs               | +      | +      | +      | +      | -      | -      | -      |
+| Hellion's Sniffer+        | -      | -      | -      | +      | +      | -      | -      |
+| Simple Kelpies            | -      | +      | +      | +      | -      | -      | -      |
+| Macaw's Paths and Pavings | +      | +      | +      | +      | +      | +      | -      |
+| Infernal Expansion        | +      | +      | -      | -      | -      | -      | -      |
+| Environmental             | +      | +      | -      | -      | -      | -      | -      |
+| More Paths Repathed       | +      | +      | -      | -      | -      | -      | -      |
+| Undergarden Paths         | +      | +      | -      | +      | +      | +      | -      |
+| Naturalist                | +      | +      | -      | +      | -      | -      | -      |
+| Ravage & Cabbage          | -      | -      | -      | +      | -      | -      | -      |
+| RideableRavagers          | -      | -      | -      | +      | -      | -      | -      |
+| RideablePolarBears        | -      | -      | -      | +      | -      | -      | -      |
+| Snow Pig                  | +      | +      | -      | +      | -      | +      | +      |
+| Roost Re-hatched          | -      | -      | -      | +      | -      | -      | -      |
+| Oh The Biomes We've Gone  | -      | -      | -      | +      | -      | -      | +      |
+| Call of Yucatán           | -      | -      | -      | +      | -      | -      | -      |
+| Jaden's Nether Expansion  | -      | -      | -      | +      | -      | -      | -      |
+| Goblin's Tyranny          | -      | -      | +      | +      | -      | -      | -      |
 
 # Details
 
