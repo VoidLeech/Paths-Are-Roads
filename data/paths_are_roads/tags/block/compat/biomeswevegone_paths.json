@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "biomeswevegone:sandy_dirt_path",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:lush_dirt_path",
+      "required": false
+    }
+  ]
+}

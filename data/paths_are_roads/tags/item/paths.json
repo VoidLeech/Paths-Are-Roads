@@ -1,5 +1,6 @@
 {
   "values": [
-    "minecraft:dirt_path"
+    "minecraft:dirt_path",
+    "#paths_are_roads:compat/biomeswevegone_paths"
   ]
 }
