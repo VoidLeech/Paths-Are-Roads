@@ -1,5 +1,5 @@
 ### Editing the data pack
-These are the docs for Minecraft versions 1.18.2-1.20.6. The 1.21 docs can be found [here](https://github.com/VoidLeech/Paths-Are-Roads/blob/1.21/dev/docs/editing.md)
+These are the docs for Minecraft versions 1.18.2-1.20.6. The 1.21.1 docs can be found [here](https://github.com/VoidLeech/Paths-Are-Roads/blob/1.21.1/dev/docs/editing.md)
 
 #### Supporting new blocks
 Blocks that have to count as path are tagged [paths_are_roads:paths](../data/paths_are_roads/tags/blocks/paths.json). It is recommended that you copy your changes/additions to the [paths_are_roads:paths](../data/paths_are_roads/tags/items/paths.json) item tag as well, so you can search for which blocks count as paths in-game. Blocks that have to count as path markers are tagged [paths_are_roads:path_markers](../data/paths_are_roads/tags/blocks/path_markers.json). There is an item tag for these as well.
