@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "netherexp:soul_path",
+      "required": false
+    },
+    {
+      "id": "netherexp:crimson_nylium_path",
+      "required": false
+    },
+    {
+      "id": "netherexp:warped_nylium_path",
+      "required": false
+    }
+  ]
+}

@@ -2,6 +2,11 @@
   "values": [
     "minecraft:player",
     "minecraft:villager",
-    "minecraft:wandering_trader"
+    "minecraft:wandering_trader",
+
+    {
+      "id": "goblins_tyranny:chubby_glitteron",
+      "required": false
+    }
   ]
 }

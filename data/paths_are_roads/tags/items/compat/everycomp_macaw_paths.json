@@ -239,6 +239,102 @@
     {
       "id": "everycomp:mcp/ancient_aether/sakura_planks_path",
       "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/blue_enchanted_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/cika_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/jacaranda_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/rainbow_eucalyptus_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/fir_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/holly_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/ebony_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/baobab_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/redwood_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/skyris_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/palm_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/witch_hazel_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/green_enchanted_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/mahogany_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/cypress_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/zelkova_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/maple_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/white_mangrove_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/aspen_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/pine_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/willow_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/sakura_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/ironwood_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomeswevegone/florus_planks_path",
+      "required": false
     }
   ]
 }

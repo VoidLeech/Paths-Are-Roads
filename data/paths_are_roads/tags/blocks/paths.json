@@ -3,6 +3,8 @@
     "minecraft:dirt_path",
     "#paths_are_roads:compat/aether_paths",
     "#paths_are_roads:compat/undergarden_paths",
+    "#paths_are_roads:compat/netherexp_paths",
+    "#paths_are_roads:compat/biomeswevegone_paths",
     "#paths_are_roads:compat/macaw_paths"
   ]
 }
