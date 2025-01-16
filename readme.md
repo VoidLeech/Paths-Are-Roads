@@ -51,7 +51,7 @@ A: Paths are Roads has full customizability w.r.t. the blocks that count as path
 A: The paths added by Cobbled Paths already apply a speed boost on their own. Paths are Roads would just boost that further for no apparent reason.
 
 **Q: Will you port to X.x.x?**  
-A: I will keep the data pack up to date with major releases of Minecraft, and will try to provide versions for the Minecraft versions that support the features necessary for this pack to function. Versions before 1.17-pre1 will not be supported, as this is when the stepping_on property was added, unless I find a different way to implement the required tag check.
+A: I will try to keep the datapack up to date with modern minecraft versions, but cannot guarantee I will be able to keep maintaining some of the smaller intermediate versions (go figure we get 'drops' now) after their initial release. Versions before 1.17-pre1 will not be supported, as this is when the stepping_on property was added, unless I find a different way to implement the required tag check.
 
 **Q: Why do your files list compatible versions even though your docs don't list those versions in the table?**  
 A: The data pack format will not have changed between the main version and any versions also marked compatible. The data pack will work for these versions, but I'll not specifically support mod compatibility for these.
@@ -60,10 +60,10 @@ A: The data pack format will not have changed between the main version and any v
 A: I see no need to do so. There exist mods that allow you to automatically apply data packs to all worlds, and nothing Paths are Roads does is needed during initial world generation, so adding after world creation is fully safe.
 
 **Q: Can this be used in my modpack?**  
-A: Yes, but do note our license does not allow directly including the mod files in your pack.
+A: Yes, but do note our license does not allow directly including the data pack files in your pack.
 
 ### Planned Features
 - Add separate tags for various speeds beside the default +40%, likely as a separate data pack s.t. those don't hurt performance due to empty defaults.
 
 ### Licensing
-This project is released under the [Avoiding Leeching License, version 1.0](LICENSE).
+This project is released under the [Avoiding Leeching License, version 1.1](LICENSE).
