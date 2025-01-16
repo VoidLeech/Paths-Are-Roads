@@ -20,6 +20,8 @@ execute as @s[type=#paths_are_roads:unique_requirement/tusklin, nbt={Saddle: 1b}
 execute as @s[type=#paths_are_roads:unique_requirement/laviathan, nbt={BodyGear: 1b, HeadGear: 1b}] run function paths_are_roads:check_for_path
 # Naturalist's Giraffe: can only be ridden temporarily when fed an apple: TameTicks != 0
 execute as @s[type=#paths_are_roads:unique_requirement/giraffe, nbt=!{TameTicks: 0}] run function paths_are_roads:check_for_path
+# Alex's Caves Atlatitan: Can only be ridden temporarily when fed a serene salad: RideableTime != 0
+execute as @s[type=#paths_are_roads:unique_requirement/atlatitan, nbt=!{RideableTime: 0}] run function paths_are_roads:check_for_path
 
 ## Path users that are tamed (reserved for when no other methods apply, as it is the one most likely to apply to mobs not currently being ridden)
 ## Sometimes the choice of specific tag within this category was arbitrary as multiple were possible (i.e. Alex's Mobs Elephant)

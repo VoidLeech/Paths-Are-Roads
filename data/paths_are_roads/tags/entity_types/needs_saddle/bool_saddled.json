@@ -16,6 +16,11 @@
     {
       "id": "alexsmobs:endergrade",
       "required": false
+    },
+
+    {
+      "id": "alexscaves:candicorn",
+      "required": false
     }
   ]
 }

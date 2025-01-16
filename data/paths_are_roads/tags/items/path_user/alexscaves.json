@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "alexscaves:spawn_egg_tremorsaurus",
+      "required": false
+    },
+    {
+      "id": "alexscaves:spawn_egg_atlatitan",
+      "required": false
+    },
+    {
+      "id": "alexscaves:spawn_egg_tremorzilla",
+      "required": false
+    },
+    {
+      "id": "alexscaves:spawn_egg_candicorn",
+      "required": false
+    }
+  ]
+}

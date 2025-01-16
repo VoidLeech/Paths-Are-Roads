@@ -19,6 +19,15 @@
       "required": false
     },
 
-    "minecraft:ravager"
+    "minecraft:ravager",
+
+    {
+      "id": "alexscaves:tremorsaurus",
+      "required": false
+    },
+    {
+      "id": "alexscaves:tremorzilla",
+      "required": false
+    }
   ]
 }
