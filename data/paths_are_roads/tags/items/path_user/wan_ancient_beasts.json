@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "wan_ancient_beasts:soarer_spawn_egg",
+      "required": false
+    },
+    {
+      "id": "wan_ancient_beasts:walker_spawn_egg",
+      "required": false
+    }
+  ]
+}
