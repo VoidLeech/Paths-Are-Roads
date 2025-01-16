@@ -13,6 +13,11 @@
     {
       "id": "naturalist:zebra",
       "required": false
+    },
+
+    {
+      "id": "environmental:zebra",
+      "required": false
     }
   ]
 }
