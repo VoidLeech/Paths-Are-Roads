@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "environmental:zebra_spawn_egg",
+      "required": false
+    }
+  ]
+}

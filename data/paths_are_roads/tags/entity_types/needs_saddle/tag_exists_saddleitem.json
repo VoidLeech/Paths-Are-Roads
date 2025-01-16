@@ -15,6 +15,11 @@
     },
 
     {
+      "id": "environmental:zebra",
+      "required": false
+    },
+
+    {
       "id": "wan_ancient_beasts:soarer",
       "required": false
     },
