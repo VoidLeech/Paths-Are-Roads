@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "everycomp:mcp/alexscaves/pewen_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/alexscaves/thornwood_planks_path",
+      "required": false
+    }
+  ]
+}

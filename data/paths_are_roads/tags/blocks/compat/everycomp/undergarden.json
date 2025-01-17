@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "everycomp:mcp/undergarden/grongle_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/undergarden/smogstem_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/undergarden/wigglewood_planks_path",
+      "required": false
+    }
+  ]
+}

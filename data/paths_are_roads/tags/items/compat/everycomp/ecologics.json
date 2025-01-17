@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "everycomp:mcp/ecologics/walnut_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/ecologics/coconut_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/ecologics/azalea_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/ecologics/flowering_azalea_planks_path",
+      "required": false
+    }
+  ]
+}

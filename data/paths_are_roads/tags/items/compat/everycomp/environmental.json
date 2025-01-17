@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "everycomp:mcp/environmental/pine_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/environmental/wisteria_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/environmental/willow_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/environmental/plum_planks_path",
+      "required": false
+    }
+  ]
+}

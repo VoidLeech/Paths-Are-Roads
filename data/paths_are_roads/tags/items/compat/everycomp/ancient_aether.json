@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "everycomp:mcp/ancient_aether/highsproot_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/ancient_aether/sakura_planks_path",
+      "required": false
+    }
+  ]
+}
