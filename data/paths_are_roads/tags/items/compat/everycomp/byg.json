@@ -1,0 +1,116 @@
+{
+  "values": [
+    {
+      "id": "everycomp:mcp/byg/blue_enchanted_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/cherry_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/cika_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/jacaranda_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/rainbow_eucalyptus_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/fir_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/sythian_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/holly_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/ebony_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/baobab_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/ether_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/redwood_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/skyris_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/palm_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/witch_hazel_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/nightshade_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/green_enchanted_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/mahogany_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/cypress_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/zelkova_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/maple_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/white_mangrove_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/bulbis_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/imparius_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/aspen_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/pine_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/lament_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/byg/willow_planks_path",
+      "required": false
+    }
+  ]
+}

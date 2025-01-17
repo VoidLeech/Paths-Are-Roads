@@ -1,0 +1,28 @@
+{
+  "values": [
+    {
+      "id": "everycomp:mcp/aether_redux/crystal_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/aether_redux/jellyshroom_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/aether_redux/cloudcap_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/aether_redux/fieldsproot_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/aether_redux/glacia_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/aether_redux/blightwillow_planks_path",
+      "required": false
+    }
+  ]
+}

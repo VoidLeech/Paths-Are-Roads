@@ -1,0 +1,48 @@
+{
+  "values": [
+    {
+      "id": "everycomp:mcp/biomesoplenty/palm_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/cherry_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/redwood_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/mahogany_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/jacaranda_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/umbran_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/fir_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/dead_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/hellbark_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/magic_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/willow_planks_path",
+      "required": false
+    }
+  ]
+}
