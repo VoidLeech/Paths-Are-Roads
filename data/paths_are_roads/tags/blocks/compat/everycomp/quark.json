@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "everycomp:mcp/quark/azalea_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/quark/blossom_planks_path",
+      "required": false
+    }
+  ]
+}
