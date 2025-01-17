@@ -1,0 +1,12 @@
+{
+  "values": [
+    {
+      "id": "regions_unexplored:peat_dirt_path",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:silt_dirt_path",
+      "required": false
+    }
+  ]
+}

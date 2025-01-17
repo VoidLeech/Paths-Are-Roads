@@ -265,10 +265,6 @@
       "required": false
     },
     {
-      "id": "everycomp:mcp/regions_unexplored/cherry_planks_path",
-      "required": false
-    },
-    {
       "id": "everycomp:mcp/regions_unexplored/yellow_bioshroom_planks_path",
       "required": false
     },
