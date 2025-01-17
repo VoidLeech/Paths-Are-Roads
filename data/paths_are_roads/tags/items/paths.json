@@ -2,6 +2,7 @@
   "values": [
     "minecraft:dirt_path",
     "#paths_are_roads:compat/aether_paths",
-    "#paths_are_roads:compat/macaw_paths"
+    "#paths_are_roads:compat/macaw_paths",
+    "#paths_are_roads:compat/regions_paths"
   ]
 }
