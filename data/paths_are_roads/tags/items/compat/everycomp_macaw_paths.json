@@ -41,7 +41,15 @@
       "required": false
     },
     {
-      "id": "everycomp:mcp/biomesoplenty/palm_planks_path",
+      "id": "everycomp:mcp/biomesoplenty/fir_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/pine_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/maple_planks_path",
       "required": false
     },
     {
@@ -57,11 +65,11 @@
       "required": false
     },
     {
-      "id": "everycomp:mcp/biomesoplenty/umbran_planks_path",
+      "id": "everycomp:mcp/biomesoplenty/palm_planks_path",
       "required": false
     },
     {
-      "id": "everycomp:mcp/biomesoplenty/fir_planks_path",
+      "id": "everycomp:mcp/biomesoplenty/willow_planks_path",
       "required": false
     },
     {
@@ -69,15 +77,19 @@
       "required": false
     },
     {
-      "id": "everycomp:mcp/biomesoplenty/hellbark_planks_path",
-      "required": false
-    },
-    {
       "id": "everycomp:mcp/biomesoplenty/magic_planks_path",
       "required": false
     },
     {
-      "id": "everycomp:mcp/biomesoplenty/willow_planks_path",
+      "id": "everycomp:mcp/biomesoplenty/umbran_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/hellbark_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/biomesoplenty/empyreal_planks_path",
       "required": false
     },
     {
