@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "id": "everycomp:mcp/deep_aether/roseroot_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/deep_aether/yagroot_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/deep_aether/cruderoot_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/deep_aether/conberry_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/deep_aether/sunroot_planks_path",
+      "required": false
+    }
+  ]
+}

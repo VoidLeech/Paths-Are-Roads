@@ -1,0 +1,96 @@
+{
+  "values": [
+    {
+      "id": "everycomp:mcp/regions_unexplored/alpha_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/baobab_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/blackwood_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/blue_bioshroom_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/brimwood_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/cobalt_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/cypress_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/dead_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/eucalyptus_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/green_bioshroom_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/joshua_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/kapok_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/larch_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/magnolia_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/maple_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/mauve_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/palm_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/pine_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/pink_bioshroom_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/redwood_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/socotra_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/willow_planks_path",
+      "required": false
+    },
+    {
+      "id": "everycomp:mcp/regions_unexplored/yellow_bioshroom_planks_path",
+      "required": false
+    }
+  ]
+}
