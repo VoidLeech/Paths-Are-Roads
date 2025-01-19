@@ -1,0 +1,2 @@
+# Naturalist's Giraffe: can only be ridden temporarily when fed an apple: TameTicks != 0
+execute as @s[type=#paths_are_roads:unique_requirement/giraffe, nbt=!{TameTicks: 0}] run function paths_are_roads:check_for_path
