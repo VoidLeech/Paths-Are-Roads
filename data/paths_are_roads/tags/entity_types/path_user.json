@@ -1,14 +1,13 @@
 {
   "values": [
-    "#paths_are_roads:unconditional_user",
-    "#paths_are_roads:needs_saddle/bool_saddle",
-    "#paths_are_roads:needs_saddle/bool_saddled",
-    "#paths_are_roads:needs_saddle/bool_issaddled",
-    "#paths_are_roads:needs_saddle/tag_exists_saddleitem",
-    "#paths_are_roads:needs_taming/bool_tame",
-    "#paths_are_roads:needs_taming/bool_tamed",
-    "#paths_are_roads:needs_taming/tag_exists_owner",
-    "#paths_are_roads:unique_requirement/tusklin",
-    "#paths_are_roads:unique_requirement/laviathan"
+    "#paths_are_roads:requirement/none",
+    "#paths_are_roads:requirement/saddle/bool_saddle",
+    "#paths_are_roads:requirement/saddle/bool_saddled",
+    "#paths_are_roads:requirement/saddle/bool_issaddled",
+    "#paths_are_roads:requirement/saddle/tag_exists_saddleitem",
+    "#paths_are_roads:requirement/taming/bool_tame",
+    "#paths_are_roads:requirement/taming/bool_tamed",
+    "#paths_are_roads:requirement/taming/tag_exists_owner",
+    "#paths_are_roads:requirement/unique"
   ]
 }
