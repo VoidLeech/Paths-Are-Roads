@@ -1,0 +1,2 @@
+# Alex's Mobs Laviathan: two unique equippable items: Straddlite Saddle & Tack: bools `BodyGear` and `HeadGear` need to be set
+execute as @s[type=#paths_are_roads:requirement/unique/laviathan, nbt={BodyGear: 1b, HeadGear: 1b}] run function paths_are_roads:check_for_path

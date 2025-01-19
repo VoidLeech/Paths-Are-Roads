@@ -1,0 +1,2 @@
+# Alex's Mobs Tusklin: Needs `Saddle` bool set, and should have been pacified /w a brown mushroom: `PassiveTicks != 0`
+execute as @s[type=#paths_are_roads:requirement/unique/tusklin, nbt={Saddle: 1b}] as @s[nbt=!{PassiveTicks: 0}] run function paths_are_roads:check_for_path

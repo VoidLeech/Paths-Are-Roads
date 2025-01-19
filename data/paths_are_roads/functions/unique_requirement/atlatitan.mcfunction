@@ -1,0 +1,2 @@
+# Alex's Caves Atlatitan: Can only be ridden temporarily when fed a serene salad: RideableTime != 0
+execute as @s[type=#paths_are_roads:requirement/unique/atlatitan, nbt=!{RideableTime: 0}] run function paths_are_roads:check_for_path
