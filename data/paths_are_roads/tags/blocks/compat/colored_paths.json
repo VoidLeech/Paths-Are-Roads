@@ -1,0 +1,48 @@
+{
+  "values": [
+    {
+      "id": "pathed:brown_dirt_path",
+      "required": false
+    },
+    {
+      "id": "pathed:red_dirt_path",
+      "required": false
+    },
+    {
+      "id": "pathed:blue_dirt_path",
+      "required": false
+    },
+    {
+      "id": "pathed:green_dirt_path",
+      "required": false
+    },
+    {
+      "id": "pathed:orange_dirt_path",
+      "required": false
+    },
+    {
+      "id": "pathed:pink_dirt_path",
+      "required": false
+    },
+    {
+      "id": "pathed:purple_dirt_path",
+      "required": false
+    },
+    {
+      "id": "pathed:cyan_dirt_path",
+      "required": false
+    },
+    {
+      "id": "pathed:black_dirt_path",
+      "required": false
+    },
+    {
+      "id": "pathed:gray_dirt_path",
+      "required": false
+    },
+    {
+      "id": "pathed:white_dirt_path",
+      "required": false
+    }
+  ]
+}
