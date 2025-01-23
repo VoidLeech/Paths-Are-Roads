@@ -43,6 +43,7 @@ If you don't have one of these mods, the data pack will still work, without erro
 - Regions Unexplored
 - Alex's Caves
 - Oh The Biomes You'll Go
+- Pathed
 
 ### Editing
 The values for this data pack can be overwritten or added to like any other. Check out our [wiki](https://github.com/VoidLeech/Paths-Are-Roads/wiki/Editing) for some useful pointers.
