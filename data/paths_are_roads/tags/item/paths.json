@@ -6,6 +6,7 @@
     "#paths_are_roads:compat/aether_paths",
     "#paths_are_roads:compat/regions_paths",
     "#paths_are_roads:compat/everycomp_paths",
-    "#paths_are_roads:compat/stonezone_paths"
+    "#paths_are_roads:compat/stonezone_paths",
+    "#paths_are_roads:compat/colored_paths"
   ]
 }
